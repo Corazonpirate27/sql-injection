@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
+![SQLite](https://img.shields.io/badge/SQLite-3-lightblue)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # SQL Injection Demo
 
 A FastAPI application demonstrating SQL injection attacks 
